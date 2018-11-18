@@ -7,9 +7,9 @@ This software is licensed under the term of the GNU Lesser General Public Licens
 (LGPL 3.0) or above. 
 
 ## Screenshots
-![In the beginning ...](https://raw.githubusercontent.com/jkriege2/JKFallingBlocks/master/screenshots/screenshot1.png)
-![... in getween ...](https://raw.githubusercontent.com/jkriege2/JKFallingBlocks/master/screenshots/screenshot2.png)
-![Game Over](https://raw.githubusercontent.com/jkriege2/JKFallingBlocks/master/screenshots/screenshot3.png)
+![In the beginning ...](https://github.com/jkriege2/JKFallingBlocks/blob/master/Screenshots/screenshot1.png)
+![... in getween ...](https://github.com/jkriege2/JKFallingBlocks/blob/master/Screenshots/screenshot2.png)
+![Game Over](https://github.com/jkriege2/JKFallingBlocks/blob/master/Screenshots/screenshot3.png)
 
 ## Usage
 Usage is simple:
